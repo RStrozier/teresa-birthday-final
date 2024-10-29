@@ -1,8 +1,11 @@
+import ColorWave from '../assets/Transparent-Wave.png'
 
 const BirthdayMessage = () => {
   return (
     <>
-      <div className="spacer"></div>
+      <img 
+      className='color-wave-image'
+      src={ColorWave}></img>
         <div className="birthday-message-container">
         <div className="text-lg poppins-medium">Happy Birthday Teresa!</div>
         <p className="quicksand-text">You are such a delightful person to know! You exude all of the fruits of the 
@@ -17,6 +20,7 @@ const BirthdayMessage = () => {
             better than you could ever expect. Today is DAY ONE! 
         </p>
         <div className="signiture">-Rashida</div>
+        <div className="spacer"></div>
     </div>
     </>
   )

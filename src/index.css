@@ -14,7 +14,7 @@
 }
 
 .spacer {
-  margin-top: 5rem;
+  margin-top: 1.5rem;
 }
 
 .text-lg {
@@ -43,4 +43,10 @@
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-style: normal;
+}
+
+.color-wave-image {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
 }
