@@ -14,7 +14,7 @@ const Footer = () => {
             including Teresa's children, brother, family members, co-workers, and friends.
             <div className="mini-spacer"></div>
             <div className="bottom-text poppins-medium">P.S. Pastor Dave singing was fire!</div>
-            <div className="poppins-light sm-text"><i>All content 
+            <div className="poppins-light sm-text"><i>**All content 
                 was made on CPT</i></div>
         </div>
      </div>
