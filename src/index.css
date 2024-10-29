@@ -64,6 +64,20 @@
   text-align: center;
 }
 
+.accent-text {
+  color: rgb(106, 28, 122);
+  font-size: 1.75rem;
+  text-align: start;
+}
+
+.purple-text {
+  color: rgb(182, 75, 203);
+}
+
+.banana-text {
+  color: yellow;
+}
+
 .bottom-text {
   text-align: center;
   color: rgb(233, 139, 238);
