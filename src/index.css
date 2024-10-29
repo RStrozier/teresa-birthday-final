@@ -13,3 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.spacer {
+  margin-top: 5rem;
+}
+
+.text-lg {
+  font-size: 2rem;
+}
+
+.birthday-message-container {
+  padding: 1rem 2.5rem;
+}
