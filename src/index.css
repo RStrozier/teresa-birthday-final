@@ -112,6 +112,11 @@
   flex-direction: column;
 }
 
+.green-highlight {
+  padding: .15rem;
+  background-color: rgba(88, 217, 88, 0.66);
+}
+
 .lg-spacer {
   padding: 5rem;
 }
