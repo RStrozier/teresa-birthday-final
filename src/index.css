@@ -19,6 +19,7 @@
 
 .text-lg {
   font-size: 2rem;
+  text-align: center;
 }
 
 .birthday-message-container {
@@ -30,6 +31,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 1.7rem;
+  text-align: end;
 }
 
 .quicksand-text {
@@ -37,6 +39,7 @@
   font-optical-sizing: auto;
   font-weight: 350;
   font-style: normal;
+  text-align: center;
 }
 
 .poppins-medium {
@@ -49,4 +52,23 @@
   width: 100%;
   height: auto;
   max-height: 300px;
+}
+
+.footer {
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgb(86, 15, 100));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.bottom-text {
+  text-align: center;
+  color: rgb(233, 139, 238);
+}
+
+.mini-spacer {
+  margin-top: .75rem;
 }
