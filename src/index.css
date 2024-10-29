@@ -93,3 +93,22 @@
 .mini-spacer {
   margin-top: .75rem;
 }
+
+.verse-scripture {
+  font-weight: bold;
+  color: rgb(106, 28, 122);
+  font-size: .95rem;
+}
+
+.bible-verse {
+  max-width: 450px;
+  text-align: center;
+}
+
+.scripture-message-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
