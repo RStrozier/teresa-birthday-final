@@ -32,6 +32,13 @@ const LoveForGod = () => {
         
         <GreenLine />
 
+        <div className="bible-verse">"In the same way, let your light shine before 
+          others, so that they may see your good works and give glory to your 
+          Father who is in heaven."</div>
+          <div className="verse-scripture">Matthew 5:16</div>
+
+          <GreenLine />
+
         <div className="bible-verse">"Train up a child in the way he should go; even 
             when he is old he will not depart from it."</div>
             <div className="verse-scripture">Proverbs 22:6</div>
