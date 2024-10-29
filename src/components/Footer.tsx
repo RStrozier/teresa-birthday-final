@@ -4,7 +4,7 @@ const Footer = () => {
     return (
      <div className="footer">
         <div className="spacer"></div>
-        <div className="poppins-medium">Site created for Teresa, designed by Rashida 
+        <div className="poppins-light">Site created for Teresa, designed by Rashida 
             and executed by Pastor Dave. 
             <br/>
             Thank you to all else who contributed,
