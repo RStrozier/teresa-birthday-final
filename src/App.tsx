@@ -3,7 +3,7 @@ import './App.css'
 import BirthdayMessage from './components/BirthdayMessage'
 import BirthdayVideo from './components/BirthdayVideo'
 import FinalGraphic from './components/FinalGraphic'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 function App() {
 
