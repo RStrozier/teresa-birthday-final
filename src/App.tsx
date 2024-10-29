@@ -16,8 +16,8 @@ function App() {
      <BirthdayVideo />
      <BirthdayMessage /> 
      <FinalGraphic />
-     <GreenSpacer />
      <LoveForGod />
+     <GreenSpacer />
      <BirthdayGraphic />
      <Footer />
     </>

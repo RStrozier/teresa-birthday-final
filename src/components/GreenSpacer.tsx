@@ -6,7 +6,7 @@ const GreenSpacer = () => {
       <img 
         src={greenSpacer} 
         alt="Green Spacer" 
-        style={{ width: '100%', height: '260px' }}
+        style={{ width: '100%', height: '120px' }}
       />
     </div>
   );

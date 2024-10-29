@@ -3,6 +3,7 @@ import happyBirthdayGif from '../assets/Happy-Birthday-Confetti.gif';
 const BirthdayGraphic = () => {
     return (
         <>
+        <div className="lg-spacer"></div>
         <div style={{ textAlign: 'center' }}>
         <img 
           src={happyBirthdayGif} 
