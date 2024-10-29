@@ -7,7 +7,8 @@ const Footer = () => {
         <div className="poppins-light">Site created for Teresa, designed by Rashida 
             including
             all content & code, 
-            and executed by Pastor Dave. 
+            <br />
+            and <span className="purple-text">executed</span> by Pastor Dave. 
             <br/>
             Thank you to all else who contributed,
             including Teresa's children, brother, family members, and friends.
