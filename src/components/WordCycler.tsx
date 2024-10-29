@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
 const WordCycler = () => {
-    const words = ['capture', 'express', 'identify', 'project'];
+    const words = ['express', 'capture', 'identify', 'characterize', 'project', 'convey'];
     const [currentWord, setCurrentWord] = useState(words[0]);
     let index = 0;
 
