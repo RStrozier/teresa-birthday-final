@@ -3,7 +3,6 @@ const BirthdayMessage = () => {
   return (
     <>
       <div className="spacer"></div>
-      <div className="spacer"></div>
         <div className="birthday-message-container">
         <div className="text-lg">Happy Birthday Teresa!</div>
         <p>You are such a delightful person to know! You exude all of the fruits of the 
