@@ -4,8 +4,8 @@ const BirthdayMessage = () => {
     <>
       <div className="spacer"></div>
         <div className="birthday-message-container">
-        <div className="text-lg">Happy Birthday Teresa!</div>
-        <p>You are such a delightful person to know! You exude all of the fruits of the 
+        <div className="text-lg poppins-medium">Happy Birthday Teresa!</div>
+        <p className="quicksand-text">You are such a delightful person to know! You exude all of the fruits of the 
             spirit. You are patient, generous, and loving. You are constantly pouring back
             into others whether that be your family, friends, or church community. You walk 
             into a room and instantly it becomes a better space. Some days you even bless 
