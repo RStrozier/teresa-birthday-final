@@ -16,10 +16,10 @@ const BirthdayMessage = () => {
             into a room and instantly it becomes a better space</u>. Some days you even bless 
             those around you with your <span className='banana-text'>delicious banana pudding</span> and homemade chocolate chip
             oatmal cookies. I mean who does that?! Well... you do. <b>You are always enhancing 
-            whatever is around you.</b> 365 days a year you are pouring out your wisdom and grace.
+            whatever is around you.</b> 365 days a year you are pouring out your wisdom & grace.
             But for today, I pray that everything you have poured out this year gets <span className='purple-text'>
-            returned to sender </span>. Hope for blessings to pour over into your life. May the next 365 days be
-            better than you could ever expect. Today is DAY ONE! 
+            returned to sender</span>. Hope for blessings to pour over into your life. May the next 365 days be
+            better then you could ever expect. Today is DAY ONE! 
         </p>
         <div className="signiture">-Rashida</div>
         <div className="spacer"></div>
