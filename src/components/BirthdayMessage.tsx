@@ -19,7 +19,7 @@ const BirthdayMessage = () => {
             whatever is around you.</b> 365 days a year you are pouring out your wisdom & grace.
             But for today, I pray that everything you have poured out this year gets <span className='purple-text'>
             returned to sender</span>. Hope for blessings to pour over into your life. May the next 365 days be
-            better then you could ever expect. Today is DAY ONE! 
+            better then you could ever expect. Happy Birthday! Today is DAY ONE! 
         </p>
         <div className="signiture">-Rashida</div>
         <div className="spacer"></div>
