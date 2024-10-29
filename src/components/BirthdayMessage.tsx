@@ -10,7 +10,8 @@ const BirthdayMessage = () => {
         <div className="text-lg poppins-medium">Happy Birthday! 
           <br />
           <span className='accent-text'>Dear Teresa,</span></div>
-        <p className="quicksand-text">You are such a delightful person to know! You exude all of the fruits of the 
+        <p className="quicksand-text">You are such a delightful person to know! You exude 
+          all of <span className='pink-text'>the fruits</span> of the 
             spirit. You are patient, generous, and loving. You are constantly pouring back
             into others whether that be your family, friends, or church community. <u>You walk 
             into a room and instantly it becomes a better space</u>. Some days you even bless 

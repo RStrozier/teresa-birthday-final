@@ -35,6 +35,7 @@
   color: rgb(198, 84, 122);
 }
 
+
 .quicksand-text {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
@@ -115,6 +116,16 @@
 .green-highlight {
   padding: .15rem;
   background-color: rgba(88, 217, 88, 0.66);
+}
+
+.pink-highlight {
+  padding: .15rem;
+  background-color: rgba(235, 107, 150, 0.797);
+  font-weight: bold;
+}
+
+.pink-text {
+  color: rgba(235, 107, 150, 0.797);
 }
 
 .lg-spacer {
