@@ -7,9 +7,10 @@ const BirthdayGraphic = () => {
         <img 
           src={happyBirthdayGif} 
           alt="Happy Birthday" 
-          style={{ width: '90%', height: 'auto' }} 
+          style={{ width: '100%', height: 'auto' }} 
         />
       </div>
+      <div className="mini-spacer"></div>
         </>
    
     );
