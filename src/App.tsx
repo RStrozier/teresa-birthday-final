@@ -5,7 +5,6 @@ import BirthdayMessage from './components/BirthdayMessage'
 import BirthdayVideo from './components/BirthdayVideo'
 import FinalGraphic from './components/FinalGraphic'
 import Footer from './components/Footer'
-import GreenSpacer from './components/GreenSpacer'
 import LoveForGod from './components/LoveForGod'
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
      <BirthdayMessage /> 
      <FinalGraphic />
      <LoveForGod />
-     <GreenSpacer />
      <BirthdayGraphic />
      <Footer />
     </>
